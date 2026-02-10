@@ -1,0 +1,329 @@
+id|title|body|department|sentiment|preprocessed_body
+1324|La zona colazione...|La zona colazione è in una bella sala decorata, piena di atmosfera|F&B|pos|la zona colazione é in una bella sala decorata piena di atmosfera
+767|Check-in semplice e...|Check-in semplice e tanti consigli super graditi per visitare luoghi di interesse e per mangiare ottimamente.|Reception|pos|check in semplice e tanti consigli super graditi per visitare luoghi di interesse e per mangiare ottimamente
+860|Prende prenotazioni anche...|Prende prenotazioni anche se non ha posti letto, dirottando su un altro albergo orribile.|Reception|neg|prende prenotazioni anche se non ha posti letto dirottando su un altro albergo orribile
+1479|Piatti poco curati...|Piatti poco curati nell’aspetto, porzioni troppo piccole|F&B|neg|piatti poco curati nell aspetto porzioni troppo piccole
+764|Il desk ci...|Il desk ci ha fornito ottimi consigli per parcheggiare, per mangiare, ma anche per le nostre visite guidate|Reception|pos|il desk ci ha fornito ottimi consigli per parcheggiare per mangiare ma anche per le nostre visite guidate
+654|L'area della hall...|L'area della hall era pulita e accogliente. Personale sempre sorridente e pronto ad aiutare.|Reception|pos|l area della hall era pulita e accogliente personale sempre sorridente e pronto ad aiutare
+1237|La struttura offre...|La struttura offre molti tavoli e gazebo a pochi passi dal lago.|F&B|pos|la struttura offre molti tavoli e gazebo a pochi passi dal lago
+475|Le camere cadono...|Le camere cadono a pezzi e la pulizia non è eccellente|Housekeeping|neg|le camere cadono a pezzi e la pulizia non é eccellente
+277|stanza sudicia e...|stanza sudicia e disordinata|Housekeeping|neg|stanza sudicia e disordinata
+1435|La stanzetta per...|La stanzetta per la colazione è piccola e bisogna aspettare che si liberano i posti.|F&B|neg|la stanzetta per la colazione é piccola e bisogna aspettare che si liberano i posti
+1589|In un albergo...|In un albergo non è tollerabile che per colazione non servano tè.|F&B|neg|in un albergo non é tollerabile che per colazione non servano té
+673|Il check-in è...|Il check-in è durato meno di due minuti, un record! Personale attento e preparato.|Reception|pos|il check in é durato meno di due minuti un record personale attento e preparato
+423|Albergo sporco, fatiscente,...|Albergo sporco, fatiscente, coperte macchiate di urina e chissà che cos'altro.|Housekeeping|neg|albergo sporco fatiscente coperte macchiate di urina e chissà che cos altro
+1508|Piatti troppo elaborati...|Piatti troppo elaborati che non rispecchiano i sapori tradizionali, deludente.|F&B|neg|piatti troppo elaborati che non rispecchiano i sapori tradizionali deludente
+819|Personale della reception...|Personale della reception scortese e poco disponibile.|Reception|neg|personale della reception scortese poco disponibile
+206|Camera e bagno...|Camera e bagno nuovi e confortevoli. Ottima pulizia in tutti gli ambienti|Housekeeping|pos|camera e bagno nuovi e confortevoli ottima pulizia in tutti gli ambienti
+646|Grazie all'ottimo personale...|Grazie all'ottimo personale che parlava bene inglese, non c'è stata alcuna barriera linguistica.|Reception|pos|grazie all ottimo personale che parlava bene inglese non c é stata alcuna barriera linguistica
+1466|Abbiamo ordinato primi...|Abbiamo ordinato primi di pesce: spaghetti alle cozze e spaghetti con pescatrice, entrambi cucinati in modo pessimo.|F&B|neg|abbiamo ordinato primi di pesce spaghetti alle cozze e spaghetti con pescatrice entrambi cucinati in modo pessimo
+561|Hotel molto bello...|Hotel molto bello e confortevole personale sempre disponibile e gentile.|Reception|pos|hotel molto bello e confortevole personale sempre disponibile e gentile
+397|Hotel pessimo stanze...|Hotel pessimo stanze terribili, ogni cosa lì dentro sembra sporca.|Housekeeping|neg|hotel pessimo stanze terribili ogni cosa lì dentro sembra sporca
+1550|Sono arrivati a...|Sono arrivati a prenderci l'ordine dopo circa mezz'ora arrivo.|F&B|neg|sono arrivati a prenderci l ordine dopo circa mezz ora arrivo
+367|E' stato un...|E' stato un succedersi di pessime impressioni! Hotel molto antiquato|Housekeeping|neg|e stato un succedersi di pessime impressioni hotel molto antiquato
+1198|Il cameriere è...|Il cameriere è stato molto gentile e sempre disponibile.|F&B|pos|il cameriere é stato molto gentile e sempre disponibile
+1565|Cucina vegetariana sottovalutata...|Cucina vegetariana sottovalutata e banalizzata; poca scelta e mediocrità nei piatti.|F&B|neg|cucina vegetariana sottovalutata e banalizzata poca scelta e mediocrità nei piatti
+7|Hotel confortevole e...|Hotel confortevole e accogliente. Pulizia impeccabile e attenzione ai dettagli.|Housekeeping|pos|hotel confortevole e accogliente pulizia impeccabile e attenzione ai dettagli
+265|Bagno nuovo con...|Bagno nuovo con doccia molto spaziosa. Ottima pulizia. Complimenti a tutto lo staff!|Housekeeping|pos|bagno nuovo con doccia molto spaziosa ottima pulizia complimenti a tutto lo staff
+1386|Cibo di scarsa...|Cibo di scarsa qualità e poco saporito.|F&B|neg|cibo di scarsa qualità e poco saporito
+39|Servizi e camera...|Servizi e camera sempre puliti. Struttura accogliente e piacevole.|Housekeeping|pos|servizi e camera sempre puliti struttura accogliente e piacevole
+1343|Bar e lounge...|Bar e lounge molto curati e con un servizio ottimo e attento.|F&B|pos|bar e lounge molto curati e con un servizio ottimo e attento
+1552|Cibo pessimo, conversazioni...|Cibo pessimo, conversazioni a voce alta e scortesia.|F&B|neg|cibo pessimo conversazioni a voce alta e scortesia
+502|Bagno sporco al...|Bagno sporco al limite della decenza, senza acqua calda né phon.|Housekeeping|neg|bagno sporco al limite della decenza senza acqua calda né phon
+754|ottimo servizio clienti....|ottimo servizio clienti. Altamente consigliato!|Reception|pos|ottimo servizio clienti altamente consigliato
+565|In questo hotel...|In questo hotel mi trovo come a casa, piena efficenza e disponibilità. Cortesia e Servizio stupendi.|Reception|pos|in questo hotel mi trovo come a casa piena efficenza e disponibilità cortesia e servizio stupendi
+301|linee delle mattonelle...|linee delle mattonelle della doccia nere per lo sporco e la mancata pulizia.|Housekeeping|neg|linee delle mattonelle della doccia nere per lo sporco e la mancata pulizia
+239|Abbiamo soggiornato in...|Abbiamo soggiornato in questo hotel cinque notti. I letti sono comodi, la pulizia impeccabile.|Housekeeping|pos|abbiamo soggiornato in questo hotel cinque notti i letti sono comodi la pulizia impeccabile
+599|Hotel molto confortevole,...|Hotel molto confortevole, dipendenti cordiali e disponibili.|Reception|pos|hotel molto confortevole dipendenti cordiali e disponibili
+327|La struttura non...|La struttura non è né molto nuova né molto pulita. Voto 5 per me.|Housekeeping|neg|la struttura non é né molto nuova né molto pulita voto 5 per me
+1402|Tutti i piatti...|Tutti i piatti sono troppo conditi. Lunga attesa per il cibo appena cotto|F&B|neg|tutti i piatti sono troppo conditi lunga attesa per il cibo appena cotto
+830|Nessuno alla reception...|Nessuno alla reception e nessuno al bar che era chiuso e inaccessibile.|Reception|neg|nessuno alla reception e nessuno al bar che era chiuso e inaccessibile
+1496|Hanno sostituito degli...|Hanno sostituito degli ingredienti terminati con altri diversi senza avvisarci.|F&B|neg|hanno sostituito degli ingredienti terminati con altri diversi senza avvisarci
+1101|Nonostante avessi richiesto...|Nonostante avessi richiesto camera con bagno privato, la reception ci ha dato una stanza con bagno condiviso. Esperienza molto negativa.|Reception|neg|nonostante avessi richiesto camera con bagno privato la reception ci ha dato una stanza con bagno condiviso esperienza molto negativa
+133|Soggiorno fantastico in...|Soggiorno fantastico in questo B&B. La camera era molto pulita, nulla da obiettare!|Housekeeping|pos|soggiorno fantastico in questo b&b la camera era molto pulita nulla da obiettare
+1090|Esperienza negativa: in...|Esperienza negativa: in sauna mancava l'acqua calda.|Reception|neg|esperienza negativa in sauna mancava l acqua calda
+750|Un plauso al...|Un plauso al direttore della struttura, super gentile, disponibile e presente per ogni evenienza.|Reception|pos|un plauso al direttore della struttura super gentile disponibile e presente per ogni evenienza
+1451|Cibo insufficiente, pietanze...|Cibo insufficiente, pietanze non appetibili e poca varietà di genere.|F&B|neg|cibo insufficiente pietanze non appetibili e poca varietà di genere
+1638|Sto seguendo una...|Sto seguendo una dieta particolare ma cuoco e camerieri se ne sono infischiati|F&B|neg|sto seguendo una dieta particolare ma cuoco e camerieri se ne sono infischiati
+605|Hotel ricco di...|Hotel ricco di piccoli dettagli che rendono la massima soddisfazione al tuo pernottamento.|Reception|pos|hotel ricco di piccoli dettagli che rendono la massima soddisfazione al tuo pernottamento
+1092|La manutenzione nelle...|La manutenzione nelle stanze e negli spazi comuni lascia molto a desiderare.|Reception|neg|la manutenzione nelle stanze e negli spazi comuni lascia molto a desiderare
+1359|Quando siamo partiti...|Quando siamo partiti ci hanno fornito una colazione da asporto sorprendente!|F&B|pos|quando siamo partiti ci hanno fornito una colazione da asporto sorprendente
+163|Accoglienza ttima camere...|Accoglienza ttima camere molto belle e pulizia impeccabile! Ritorneremo sicuramente.|Housekeeping|pos|accoglienza ttima camere molto belle e pulizia impeccabile ritorneremo sicuramente
+69|Stanze con tutti...|Stanze con tutti i requisiti confortevoli e ben curate Bella esperienza.|Housekeeping|pos|stanze con tutti i requisiti confortevoli e ben curate bella esperienza
+1342|Bar e lounge...|Bar e lounge molto belli e con un servizio ottimo e attento.|F&B|pos|bar e lounge molto belli e con un servizio ottimo e attento
+1127|prestazione eccellente, cibo...|prestazione eccellente, cibo incredibile. La sala ristorante è molto bella.|F&B|pos|prestazione eccellente cibo incredibile la sala ristorante é molto bella
+369|Moquette scolorita e...|Moquette scolorita e rivestimenti datati, la camera era davvero angusta, per non parlare del bagno.|Housekeeping|neg|moquette scolorita e rivestimenti datati la camera era davvero angusta per non parlare del bagno
+1312|Cibo molto buono,...|Cibo molto buono, rapporto qualità-prezzo adeguato e soprattutto personale cordiale.|F&B|pos|cibo molto buono rapporto qualità prezzo adeguato e soprattutto personale cordiale
+1294|Ogni piatto è...|Ogni piatto è una celebrazione dell’equilibrio, dove la tecnica esalta senza mai sovrastare la purezza degli ingredienti.|F&B|pos|ogni piatto é una celebrazione dell equilibrio dove la tecnica esalta senza mai sovrastare la purezza degli ingredienti
+1077|Al rientro in...|Al rientro in camera la tessera di apertura non funzionava e non c'era nessuno ad aiutarci.|Reception|neg|al rientro in camera la tessera di apertura non funzionava e non c era nessuno ad aiutarci
+215|Bellissimo appartamento, camere...|Bellissimo appartamento, camere tutte spaziose, pulite e con una vista stupenda.|Housekeeping|pos|bellissimo appartamento camere tutte spaziose pulite e con una vista stupenda
+1014|Schiamazzi e persone...|Schiamazzi e persone che urlavano ia tutte le ore, sicuramente un comportamento non adatto|Reception|neg|schiamazzi e persone che urlavano ia tutte le ore sicuramente un comportamento non adatto
+611|La permanenza è...|La permanenza è stata eccezionale! Dalla calorosa accoglienza al check-out, tutto è stato gestito con cura|Reception|pos|la permanenza é stata eccezionale dalla calorosa accoglienza al check out tutto é stato gestito con cura
+1603|La colazione servita...|La colazione servita con estrema scortesia sembra non vedano l'ora che tu te ne vada.|F&B|neg|la colazione servita con estrema scortesia sembra non vedano l ora che tu te ne vada
+1100|Il bagno della...|Il bagno della camera assegnata dalla reception era sporco e non funzionante, ma nessuno ha risposto alle nostre lamentele.|Reception|neg|il bagno della camera assegnata dalla reception era sporco e non funzionante ma nessuno ha risposto alle nostre lamentele
+631|Check-in e servizi...|Check-in e servizi impeccabili: tutto gestito alla perfezione.|Reception|pos|check in e servizi impeccabili tutto gestito alla perfezione
+168|Ottima ospitalità. Adoro...|Ottima ospitalità. Adoro la camera, adoro la posizione. Sceglierò di nuovo questo B&B.|Housekeeping|pos|ottima ospitalità adoro la camera adoro la posizione sceglierò di nuovo questo b&b
+484|Stanza piccolissima e...|Stanza piccolissima e poco pulita. nessun comfort.|Housekeeping|neg|stanza piccolissima e poco pulita nessun comfort
+793|Aperitivo di benvenuto...|Aperitivo di benvenuto e kit di cortesia in tutte le camere. Ottimo albergo per essere coccolati.|Reception|pos|aperitivo di benvenuto e kit di cortesia in tutte le camere ottimo albergo per essere coccolati
+1060|La struttura non...|La struttura non merita i soldi spesi.|Reception|neg|la struttura non merita i soldi spesi
+974|Nonostante le nostre...|Nonostante le nostre rimostranze non è stato possibile aver alcun supporto dal personale.|Reception|neg|nonostante le nostre rimostranze non é stato possibile aver alcun supporto dal personale
+1106|Nonostante le lamentele...|Nonostante le lamentele per la musica e il rumore nelle camere, nessuno è intervenuto per migliorare la situazione.|Reception|neg|nonostante le lamentele per la musica e il rumore nelle camere nessuno é intervenuto per migliorare la situazione
+342|Camera poco pulita...|Camera poco pulita e bagno fuori servizio. Terribile|Housekeeping|neg|camera poco pulita e bagno fuori servizio terribile
+194|Albergo curato nei...|Albergo curato nei minimi particolari Camera è arredata con gusto, comoda e spaziosa!|Housekeeping|pos|albergo curato nei minimi particolari camera é arredata con gusto comoda e spaziosa
+1156|Abbiamo apprezzato molto...|Abbiamo apprezzato molto la gentilezza e la disponibilità del cameriere, che ha reso la nostra cena davvero piacevole.|F&B|pos|abbiamo apprezzato molto la gentilezza e la disponibilità del cameriere che ha reso la nostra cena davvero piacevole
+787|La cura e...|La cura e la passione che i propietrari mettono nel gestire il b&b, fanno sentire l'ospite a casa.|Reception|pos|la cura e la passione che i propietrari mettono nel gestire il b&b fanno sentire l ospite a casa
+666|Un ringraziamento speciale...|Un ringraziamento speciale al team della concierge per aver reso il nostro viaggio indimenticabile.|Reception|pos|un ringraziamento speciale al team della concierge per aver reso il nostro viaggio indimenticabile
+961|Quando ho fatto...|Quando ho fatto notare che dalla finestra entrava acqua mi è stato risposto e quindi cosa vuoi?|Reception|neg|quando ho fatto notare che dalla finestra entrava acqua mi é stato risposto e quindi cosa vuoi
+1155|Il personale di...|Il personale di sala è stato sempre cortese e attento, pronto a consigliare piatti e vini con grande professionalità.|F&B|pos|il personale di sala é stato sempre cortese e attento pronto a consigliare piatti e vini con grande professionalità
+927|Personale maleducato e...|Personale maleducato e addetti al facchinaggio senza alcuna attenzione per i nostri bagagli.|Reception|neg|personale maleducato e addetti al facchinaggio senza alcuna attenzione per i nostri bagagli
+455|Struttura vecchia per...|Struttura vecchia per non parlare della camera sporca.|Housekeeping|neg|struttura vecchia per non parlare della camera sporca
+1035|Per nulla disponibili,...|Per nulla disponibili, scortesi e non rispettano gli orari. Vi consiglio di prenotare altrove.|Reception|neg|per nulla disponibili scortesi e non rispettano gli orari vi consiglio di prenotare altrove
+1534|Menù troppo ristretto...|Menù troppo ristretto e scarse alternative per bambini.|F&B|neg|menù troppo ristretto e scarse alternative per bambini
+9|Tutto il personale...|Tutto il personale è stato cordiale e premuroso! Ottima pulizia della stanza.|Housekeeping|pos|tutto il personale é stato cordiale e premuroso ottima pulizia della stanza
+972|Pieno di tariffe...|Pieno di tariffe occultate. Il soggiorno mi è costato 100 euro in più al giorno. Ladri|Reception|neg|pieno di tariffe occultate il soggiorno mi é costato 100 euro in più al giorno ladri
+365|E' stato un...|E' stato un susseguirsi di pessime impressioni! Hotel molto antiquato|Housekeeping|neg|e stato un susseguirsi di pessime impressioni hotel molto antiquato
+1165|Il menù propone...|Il menù propone piatti originali e creativi, un’esperienza gastronomica unica|F&B|pos|il menù propone piatti originali e creativi un esperienza gastronomica unica
+956|Ci hanno costretto...|Ci hanno costretto a cambiare camera da un giorno all'altro senza darci spiegazioni e con molto fastidio.|Reception|neg|ci hanno costretto a cambiare camera da un giorno all altro senza darci spiegazioni e con molto fastidio
+954|La correttezza e...|La correttezza e la professionalità non sono di casa in questo porcile chiamato hotel.|Reception|neg|la correttezza e la professionalità non sono di casa in questo porcile chiamato hotel
+1037|Ogni volta che...|Ogni volta che ho chiamato la reception per un guasto, non hanno mai mandato nessuno a controllare.|Reception|neg|ogni volta che ho chiamato la reception per un guasto non hanno mai mandato nessuno a controllare
+415|Lasciate fuori ogni...|Lasciate fuori ogni speranza. Albergo brutto, stanze pessime e sporche.|Housekeeping|neg|lasciate fuori ogni speranza albergo brutto stanze pessime e sporche
+165|Camera arredata modernamente...|Camera arredata modernamente e molto pulita. Massimo confort anche in bagno.|Housekeeping|pos|camera arredata modernamente e molto pulita massimo confort anche in bagno
+1206|Location affascinante e...|Location affascinante e con ottimi taglieri per aperitivo.|F&B|pos|location affascinante e con ottimi taglieri per aperitivo
+695|Host eccezionale, disponibile,...|Host eccezionale, disponibile, gentile e molto attento a qualsiasi necessità.|Reception|pos|host eccezionale disponibile gentile e molto attento a qualsiasi necessità
+943|Accoglienza quasi nulla...|Accoglienza quasi nulla e senza ascensore (4 piani!).|Reception|neg|accoglienza quasi nulla e senza ascensore 4 piani
+292|Porte danneggiate e...|Porte danneggiate e tendina della doccia diventata grigia per lo sporco e la muffa.|Housekeeping|neg|porte danneggiate e tendina della doccia diventata grigia per lo sporco e la muffa
+1241|Il menù è...|Il menù è più che valido, con tanti prodotti e ricette caratteristiche del territorio.|F&B|pos|il menù é più che valido con tanti prodotti e ricette caratteristiche del territorio
+1097|Mancavano cose basilari...|Mancavano cose basilari come l'acqua calda e il phon.|Reception|neg|mancavano cose basilari come l acqua calda e il phon
+42|Igiene ineccepibile e...|Igiene ineccepibile e massima disponibilità da parte dei dipendenti dell'albergo|Housekeeping|pos|igiene ineccepibile e massima disponibilità da parte dei dipendenti dell albergo
+1178|Personale pronto e...|Personale pronto e disponibile a modificare i piatti per le mie allergie.|F&B|pos|personale pronto e disponibile a modificare i piatti per le mie allergie
+1376|Prima colazione insufficiente...|Prima colazione insufficiente e poco varia.|F&B|neg|prima colazione insufficiente e poco varia
+583|Il personale della...|Il personale della reception si impegna per soddisfare qualsiasi richiesta.|Reception|pos|il personale della reception si impegna per soddisfare qualsiasi richiesta
+252|Hotel molto comodo....|Hotel molto comodo. Camera abbastanza ampia, con bel terrazzino arredato e stendibiancheria.|Housekeeping|pos|hotel molto comodo camera abbastanza ampia con bel terrazzino arredato e stendibiancheria
+1141|I vini serviti...|I vini serviti durante i pasti sono il fiore all’occhiello, tutti di propria produzione e davvero gustosi.|F&B|pos|i vini serviti durante i pasti sono il fiore all occhiello tutti di propria produzione e davvero gustosi
+907|Personale non accogliente...|Personale non accogliente e poco disponibile.|Reception|neg|personale non accogliente e poco disponibile
+1058|Il parcheggio custodito...|Il parcheggio custodito era al completo e abbiamo dovuto lasciare l'auto in strada.|Reception|neg|il parcheggio custodito era al completo e abbiamo dovuto lasciare l auto in strada
+507|Bagno strettissimo, disfunzionale...|Bagno strettissimo, disfunzionale e anche molto sporco.|Housekeeping|neg|bagno strettissimo disfunzionale e anche molto sporco
+1494|Hanno sbagliato piatti...|Hanno sbagliato piatti e sbagliato le comande 2 volte durante la stessa cena.|F&B|neg|hanno sbagliato piatti e sbagliato le comande 2 volte durante la stessa cena
+1542|Troppo caos. Bambini...|Troppo caos. Bambini fuori controllo che correvano ed urlavano ovunque.|F&B|neg|troppo caos bambini fuori controllo che correvano ed urlavano ovunque
+803|In albergo è...|In albergo è presente anche un centro benessere completamente gratuito e molto confortevole.|Reception|pos|in albergo é presente anche un centro benessere completamente gratuito e molto confortevole
+273|Camera sudicia e...|Camera sudicia e disordinata|Housekeeping|neg|camera sudicia e disordinata
+76|Camera confortevole e...|Camera confortevole e silenziosa struttura in ottima posizione. Promosso in pieno.|Housekeeping|pos|camera confortevole e silenziosa struttura in ottima posizione promosso in pieno
+136|Camera PERFETTA, pulitissima...|Camera PERFETTA, pulitissima e dotata di ogni comfort ma proprio tutti!|Housekeeping|pos|camera perfetta pulitissima e dotata di ogni comfort ma proprio tutti
+1566|Menu degustazione molto...|Menu degustazione molto deludente e ad un prezzo elevatissimo.|F&B|neg|menu degustazione molto deludente e ad un prezzo elevatissimo
+587|Il personale è...|Il personale è molto cordiale e molto preparato sulle lingue straniere.|Reception|pos|il personale é molto cordiale e molto preparato sulle lingue straniere
+1520|Prezzi troppo alti...|Prezzi troppo alti per la qualità offerta, non vale la pena.|F&B|neg|prezzi troppo alti per la qualità offerta non vale la pena
+1194|Abbiamo dormito nel...|Abbiamo dormito nel B&b e pranzato nella struttura, tutto superbo!|F&B|pos|abbiamo dormito nel b&b e pranzato nella struttura tutto superbo
+1104|Rumori molesti e...|Rumori molesti e musica fino a tarda notte vicino alla reception, nessun intervento da parte dello staff nonostante le nostre segnalazioni.|Reception|neg|rumori molesti e musica fino a tarda notte vicino alla reception nessun intervento da parte dello staff nonostante le nostre segnalazioni
+1473|Qualità delle materie...|Qualità delle materie prime e competenza della cucina oltremodo sotto la media|F&B|neg|qualità delle materie prime e competenza della cucina oltremodo sotto la media
+780|L'albergo ha accolto...|L'albergo ha accolto tutte le nostre richieste speciali senza alcuna problematica|Reception|pos|l albergo ha accolto tutte le nostre richieste speciali senza alcuna problematica
+19|Camera comoda e...|Camera comoda e dipendenti sempre disponibili|Housekeeping|pos|camera comoda e dipendenti sempre disponibili
+177|Camera nuova, pulita...|Camera nuova, pulita e confortevole. Posizione eccellente. Giudizio positivo.|Housekeeping|pos|camera nuova pulita e confortevole posizione eccellente giudizio positivo
+551|personale cordiale e...|personale cordiale e professionale al desk; servizi di prima qualità.|Reception|pos|personale cordiale e professionale al desk servizi di prima qualità
+626|Un punto di...|Un punto di forza totale di questo hotel è la preparazione del personale al desk.|Reception|pos|un punto di forza totale di questo hotel é la preparazione del personale al desk
+685|La capacità della...|La capacità della reception di personalizzare l'esperienza è stata la ciliegina sulla torta della nostra vacanza.|Reception|pos|la capacità della reception di personalizzare l esperienza é stata la ciliegina sulla torta della nostra vacanza
+253|Hotel consigliatissimo Stanza...|Hotel consigliatissimo Stanza molto apprezzata e confortevole.|Housekeeping|pos|hotel consigliatissimo stanza molto apprezzata e confortevole
+1635|Buffet troppo piccolo...|Buffet troppo piccolo e perennemente accalcato. Scene fantozziane|F&B|neg|buffet troppo piccolo e perennemente accalcato scene fantozziane
+1371|Chef, cuochi, camerieri...|Chef, cuochi, camerieri e tutto il personale di ristorazione davvero bravi.|F&B|pos|chef cuochi camerieri e tutto il personale di ristorazione davvero bravi
+1273|Buonissime le birre...|Buonissime le birre di loro produzione e molto buono anche il cibo servito.|F&B|pos|buonissime le birre di loro produzione e molto buono anche il cibo servito
+537|Check-in rapido e...|Check-in rapido e personale molto accogliente|Reception|pos|check in rapido e personale molto accogliente
+883|Reception aperta solo...|Reception aperta solo poche ore al giorno. Nessun personale durante la notte.|Reception|neg|reception aperta solo poche ore al giorno nessun personale durante la notte
+1437|La stanzetta per...|La stanzetta per la colazione è piccola e bisogna attendere che si liberano i posti.|F&B|neg|la stanzetta per la colazione é piccola e bisogna attendere che si liberano i posti
+364|odore terribile in...|odore terribile in camera. Atmosfera vecchia e opprimente. Siamo fuggiti.|Housekeeping|neg|odore terribile in camera atmosfera vecchia e opprimente siamo fuggiti
+339|Questo albergo non...|Questo albergo non è terribile ma sicuramente ci sono molte cose da rivedere, a cominciare dalle pulizie!|Housekeeping|neg|questo albergo non é terribile ma sicuramente ci sono molte cose da rivedere a cominciare dalle pulizie
+1377|Servizio lento ai...|Servizio lento ai tavoli e personale poco cortese.|F&B|neg|servizio lento ai tavoli e personale poco cortese
+922|Servizio sia ai...|Servizio sia ai piani che alla reception davvero scarso. Albergo da massimo 1 stella.|Reception|neg|servizio sia ai piani che alla reception davvero scarso albergo da massimo 1 stella
+141|Albergo fantastico pulizia...|Albergo fantastico pulizia eccellente. Promosso in pieno|Housekeeping|pos|albergo fantastico pulizia eccellente promosso in pieno
+1212|Al ristorante interno...|Al ristorante interno ampia scelta soprattutto sui vini autoctoni.|F&B|pos|al ristorante interno ampia scelta soprattutto sui vini autoctoni
+401|Le stanze sono...|Le stanze sono piccole e brutte, le pareti e il soffitto sarebbero da reimbiancare!|Housekeeping|neg|le stanze sono piccole e brutte le pareti e il soffitto sarebbero da reimbiancare
+1036|Ogni volta che...|Ogni volta che ho chiamato la reception per un problema non hanno mai mandato nessuno a controllare.|Reception|neg|ogni volta che ho chiamato la reception per un problema non hanno mai mandato nessuno a controllare
+900|C'era qualcuno al...|C'era qualcuno al mio piano che durante la notte ha iniziato a gridare piú volte svegliando tutti.|Reception|neg|c era qualcuno al mio piano che durante la notte ha iniziato a gridare pi volte svegliando tutti
+1444|La colazione era...|La colazione era disponibile alle due macchinette automatiche presenti nella cosidetta hall.|F&B|neg|la colazione era disponibile alle due macchinette automatiche presenti nella cosidetta hall
+25|Servizio di cambio...|Servizio di cambio biancheria giornaliero Bagno e camera sempre in ordine.|Housekeeping|pos|servizio di cambio biancheria giornaliero bagno e camera sempre in ordine
+1641|Sto seguendo una...|Sto seguendo una alimentazione particolare ma cuoco e camerieri se ne sono disinteressati.|F&B|neg|sto seguendo una alimentazione particolare ma cuoco e camerieri se ne sono disinteressati
+899|C'era qualcuno al...|C'era qualcuno al mio piano che durante la notte ha iniziato a urlare piú volte svegliando tutti.|Reception|neg|c era qualcuno al mio piano che durante la notte ha iniziato a urlare pi volte svegliando tutti
+151|Sistemazione perfetta, camera...|Sistemazione perfetta, camera pulita e con letto molto comodo! Voto 10.|Housekeeping|pos|sistemazione perfetta camera pulita e con letto molto comodo voto 10
+1065|I camerieri non...|I camerieri non hanno la più pallida idea di come svolgere il loro mestiere.|Reception|neg|i camerieri non hanno la più pallida idea di come svolgere il loro mestiere
+279|Struttura trasandata e...|Struttura trasandata e poco pulita.|Housekeeping|neg|struttura trasandata e poco pulita
+746|Qualsiasi quesito abbiate,...|Qualsiasi quesito abbiate, il desk è sempre pronto a fornirvi la soluzione perfetta.|Reception|pos|qualsiasi quesito abbiate il desk é sempre pronto a fornirvi la soluzione perfetta
+653|L'area della reception...|L'area della reception era pulita e accogliente. Personale sempre sorridente e pronto ad aiutare.|Reception|pos|l area della reception era pulita e accogliente personale sempre sorridente e pronto ad aiutare
+181|Segnalo l'ottima pulizia,...|Segnalo l'ottima pulizia, serietà, efficienza, competenza e disponibilità.|Housekeeping|pos|segnalo l ottima pulizia serietà efficienza competenza e disponibilità
+996|Albergo e personale...|Albergo e personale penosi. Scarsa sicurezza perfino all'interno delle camere. Estranei sul balcone.|Reception|neg|albergo e personale penosi scarsa sicurezza perfino all interno delle camere estranei sul balcone
+827|A causa di...|A causa di un guasto è mancata l'acqua calda in camera per tutto il soggiorno|Reception|neg|a causa di un guasto é mancata l acqua calda in camera per tutto il soggiorno
+1450|Cibo scarso vivande...|Cibo scarso vivande non allettanti e poca varietà di genere.|F&B|neg|cibo scarso vivande non allettanti e poca varietà di genere
+1380|Servizio pigro ai...|Servizio pigro ai tavoli e cameriere poco cortese.|F&B|neg|servizio pigro ai tavoli e cameriere poco cortese
+434|Finestre della camera...|Finestre della camera guaste e impossibili da chiudere arredi vecchi e rotti.|Housekeeping|neg|finestre della camera guaste e impossibili da chiudere arredi vecchi e rotti
+979|Nonostante le nostre...|Nonostante le nostre lamentele non è stato possibile aver alcun aiuto dal personale.|Reception|neg|nonostante le nostre lamentele non é stato possibile aver alcun aiuto dal personale
+941|Personale poco disponibile...|Personale poco disponibile e schietto fino alla scortesia.|Reception|neg|personale poco disponibile e schietto fino alla scortesia
+1120|La cucina è...|La cucina è buona, si mangia discretamente ed il servizio in sala da pranzo attento alle richieste e cortese nei modi.|F&B|pos|la cucina é buona si mangia discretamente ed il servizio in sala da pranzo attento alle richieste e cortese nei modi
+1096|L'acqua calda in...|L'acqua calda in realtà è appena tiepida.|Reception|neg|l acqua calda in realtà é appena tiepida
+547|Staff cordiale e...|Staff cordiale e professionale al desk; servizi di prima qualità.|Reception|pos|staff cordiale e professionale al desk servizi di prima qualità
+1415|Colazione praticamente inesistente...|Colazione praticamente inesistente e quel poco che c'era, di scarsissima qualità.|F&B|neg|colazione praticamente inesistente e quel poco che c era di scarsissima qualità
+501|Camere vecchie e...|Camere vecchie e sudicie. Esperienza bruttissima da non ripetere.|Housekeeping|neg|camere vecchie e sudicie esperienza bruttissima da non ripetere
+1366|L'albergo dà la...|L'albergo dà la bellissima opportunità di pranzare sul proprio balcone privato.|F&B|pos|l albergo dà la bellissima opportunità di pranzare sul proprio balcone privato
+1007|Dalla strada sottostante...|Dalla strada sottostante arriva nelle camere tantissimo rumore. impensabile riposare.|Reception|neg|dalla strada sottostante arriva nelle camere tantissimo rumore impensabile riposare
+190|Struttura curata in...|Struttura curata in ogni minimo dettaglio. Non avrei potuto chiedere di meglio.|Housekeeping|pos|struttura curata in ogni minimo dettaglio non avrei potuto chiedere di meglio
+1410|L'unico succo di...|L'unico succo di frutta che hanno è d'arancia, se non ti piace non bevi nulla. Brioche gommose.|F&B|neg|l unico succo di frutta che hanno é d arancia se non ti piace non bevi nulla brioche gommose
+670|Ottima efficienza nella...|Ottima efficienza nella comunicazione pre e post soggiorno|Reception|pos|ottima efficienza nella comunicazione pre e post soggiorno
+217|L’ambiente è molto...|L’ambiente è molto accogliente e confortevole, luminoso e la collocazione è ottima.|Housekeeping|pos|l ambiente é molto accogliente e confortevole luminoso e la collocazione é ottima
+633|Ho contattato la...|Ho contattato la reception via email e si sono occupati di tutto con la massima disponibilità.|Reception|pos|ho contattato la reception via email e si sono occupati di tutto con la massima disponibilità
+1105|La reception non...|La reception non ha gestito bene il problema della musica troppo alta proveniente dal bar dell’hotel, rendendo il soggiorno molto sgradevole.|Reception|neg|la reception non ha gestito bene il problema della musica troppo alta proveniente dal bar dell hotel rendendo il soggiorno molto sgradevole
+1383|Cibo di bassa...|Cibo di bassa qualità e non appetitoso|F&B|neg|cibo di bassa qualità e non appetitoso
+1446|La colazione inizia...|La colazione inizia alle 9.30 quindi se devi uscire prima, anche se l'hai pagata, nulla.|F&B|neg|la colazione inizia alle 9 30 quindi se devi uscire prima anche se l hai pagata nulla
+99|Materasso ortopedico ideale...|Materasso ortopedico ideale per riposare bene. Bagno piccolo ma pulito.|Housekeeping|pos|materasso ortopedico ideale per riposare bene bagno piccolo ma pulito
+1161|approvo molto l’uso...|approvo molto l’uso di ingredienti biologici e a km zero, si sente la differenza nel sapore|F&B|pos|approvo molto l uso di ingredienti biologici e a km zero si sente la differenza nel sapore
+233|Tanta professionalità e...|Tanta professionalità e ottima pulizia delle camere.|Housekeeping|pos|tanta professionalità e ottima pulizia delle camere
+192|Struttura seguita in...|Struttura seguita in ogni minimo dettaglio. Non avrei potuto chiedere di meglio.|Housekeeping|pos|struttura seguita in ogni minimo dettaglio non avrei potuto chiedere di meglio
+174|Sistemazione perfetta, pulizia...|Sistemazione perfetta, pulizia massima.|Housekeeping|pos|sistemazione perfetta pulizia massima
+693|Host eccezionale, disponibile,...|Host eccezionale, disponibile, gentile e super attento a qualsiasi necessità.|Reception|pos|host eccezionale disponibile gentile e super attento a qualsiasi necessità
+511|Delusione e rimpianto....|Delusione e rimpianto. Alloggio vecchio e sporco.|Housekeeping|neg|delusione e rimpianto alloggio vecchio e sporco
+1573|Nessun bar serale...|Nessun bar serale per bevande al rientro in hotel. Desolante.|F&B|neg|nessun bar serale per bevande al rientro in hotel desolante
+1268|Il personale è...|Il personale è gentile e disponibile. Menù vegetariano di ottima qualità.|F&B|pos|il personale é gentile e disponibile menù vegetariano di ottima qualità
+1452|Cibo insufficiente, pietanze...|Cibo insufficiente, pietanze non allettanti e poca varietà di genere.|F&B|neg|cibo insufficiente pietanze non allettanti e poca varietà di genere
+1281|I piatti sono...|I piatti sono molto ben curati il cibo è buono, il personale accogliente.|F&B|pos|i piatti sono molto ben curati il cibo é buono il personale accogliente
+235|Bello l'ambiente, belle...|Bello l'ambiente, belle le camere, tutto impeccabile|Housekeeping|pos|bello l ambiente belle le camere tutto impeccabile
+1348|Colazione giornaliera inclusa...|Colazione giornaliera inclusa nella tariffa ottima! Selezione di cibo fresco e assortimento di prodotti delizioso.|F&B|pos|colazione giornaliera inclusa nella tariffa ottima selezione di cibo fresco e assortimento di prodotti delizioso
+991|Alla reception non...|Alla reception non sono in grado di fornire nessun aiuto né soluzione per nessun problema.|Reception|neg|alla reception non sono in grado di fornire nessun aiuto né soluzione per nessun problema
+1606|Il ristorante interno...|Il ristorante interno è perentemente pieno. Non c'è stato verso di pranzarci una volta.|F&B|neg|il ristorante interno é perentemente pieno non c é stato verso di pranzarci una volta
+718|Personale molto preciso...|Personale molto preciso e disponibile nel fornirci indicazioni e suggerimenti su trasferimenti da e per l'aeroporto.|Reception|pos|personale molto preciso e disponibile nel fornirci indicazioni e suggerimenti su trasferimenti da e per l aeroporto
+1358|Quando siamo partiti...|Quando siamo partiti ci hanno fornito una colazione da asporto spettacolare|F&B|pos|quando siamo partiti ci hanno fornito una colazione da asporto spettacolare
+186|La sistemazione è...|La sistemazione è come indicato. Ottimamente arredato, molto pulito e curato.|Housekeeping|pos|la sistemazione é come indicato ottimamente arredato molto pulito e curato
+947|OVERBOOKING a mezzanotte;...|OVERBOOKING a mezzanotte; nonostante prenotazione non avevano riservato una stanza per me.|Reception|neg|overbooking a mezzanotte nonostante prenotazione non avevano riservato una stanza per me
+855|Avevo prenotato con...|Avevo prenotato con ingresso alle 13:00, ma quando siamo arrivati non c'era nessuno ad aspettarci|Reception|neg|avevo prenotato con ingresso alle 13 00 ma quando siamo arrivati non c era nessuno ad aspettarci
+1629|prestazione di colazione...|prestazione di colazione deludente. C'è bisogno di molte più attenzioni per i clienti.|F&B|neg|prestazione di colazione deludente c é bisogno di molte più attenzioni per i clienti
+1457|I camerieri cominciano...|I camerieri cominciano a sgombrare il nostro tavolo nonostante stessimo ancora finendo il primo piatto.|F&B|neg|i camerieri cominciano a sgombrare il nostro tavolo nonostante stessimo ancora finendo il primo piatto
+284|Personale poco accorto...|Personale poco accorto alla pulizia delle camere e dei bagni.|Housekeeping|neg|personale poco accorto alla pulizia delle camere e dei bagni
+29|Ambiente pulito e...|Ambiente pulito e tranquillo, ideale per chi ha bisogno di rilassarsi|Housekeeping|pos|ambiente pulito e tranquillo ideale per chi ha bisogno di rilassarsi
+967|Per uscire alle...|Per uscire alle 7, abbiamo dovuto svegliare il tipo della reception che si è presentato in pigiama e infradito.|Reception|neg|per uscire alle 7 abbiamo dovuto svegliare il tipo della reception che si é presentato in pigiama e infradito
+379|Il telaio della...|Il telaio della finestra è ammuffito e rotto. I letti non sono comodi.|Housekeeping|neg|il telaio della finestra é ammuffito e rotto i letti non sono comodi
+1267|Buono l’aperitivo offerto...|Buono l’aperitivo offerto all'arrivo e la scelta presente nella carta dei vini, prezzi nella media.|F&B|pos|buono l aperitivo offerto all arrivo e la scelta presente nella carta dei vini prezzi nella media
+738|Il responsabile è...|Il responsabile è stato molto gentile e attento per tutto il tempo Ci ha sollevato da molte incombenze.|Reception|pos|il responsabile é stato molto gentile e attento per tutto il tempo ci ha sollevato da molte incombenze
+422|Camere e tutta...|Camere e tutta la struttura da controllare. Non terribile ma molto trascurato.|Housekeeping|neg|camere e tutta la struttura da controllare non terribile ma molto trascurato
+1213|Cibo buono, scelta...|Cibo buono, scelta ampia e con opzioni vegane o vegetariane.|F&B|pos|cibo buono scelta ampia e con opzioni vegane o vegetariane
+1516|L’evento di degustazione...|L’evento di degustazione è stato mal organizzato vini non abbinati correttamente.|F&B|neg|l evento di degustazione é stato mal organizzato vini non abbinati correttamente
+1314|Materia prima eccellente...|Materia prima eccellente ed esaltata sapientemente dalla cottura impeccabile.|F&B|pos|materia prima eccellente ed esaltata sapientemente dalla cottura impeccabile
+1605|Dolci stantii e...|Dolci stantii e biscotti secchi. Una colazione da terzo mondo.|F&B|neg|dolci stantii e biscotti secchi una colazione da terzo mondo
+62|Ambiente tranquillo personale...|Ambiente tranquillo personale disponibile, stanze ben curate e sempre in ordine.|Housekeeping|pos|ambiente tranquillo personale disponibile stanze ben curate e sempre in ordine
+752|Eccellente servizio clienti....|Eccellente servizio clienti. Altamente consigliato!|Reception|pos|eccellente servizio clienti altamente consigliato
+1581|Tutte le portate...|Tutte le portate avevano qualche difetto In generale poco gusto e niente ricercatezza.|F&B|neg|tutte le portate avevano qualche difetto in generale poco gusto e niente ricercatezza
+403|Gli insetti ti...|Gli insetti ti tengono compagnia durante la notte e il bagno non è commentabile!|Housekeeping|neg|gli insetti ti tengono compagnia durante la notte e il bagno non é commentabile
+1195|Cena al ristorante...|Cena al ristorante interno top, con un menù non troppo ampio ma sufficiente per soddisfare ogni esigenza|F&B|pos|cena al ristorante interno top con un menù non troppo ampio ma sufficiente per soddisfare ogni esigenza
+96|Accoglienza, comfort e...|Accoglienza, comfort e praticità. Stanza comoda e funzionale.|Housekeeping|pos|accoglienza comfort e praticità stanza comoda e funzionale
+663|La disponibilità del...|La disponibilità del personale a venire incontro alle nostre esigenze è stata molto apprezzata.|Reception|pos|la disponibilità del personale a venire incontro alle nostre esigenze é stata molto apprezzata
+1492|Prezzo decisamente troppo...|Prezzo decisamente troppo elevato rispetto alla qualità espressa.|F&B|neg|prezzo decisamente troppo elevato rispetto alla qualità espressa
+1422|Colazione un po'...|Colazione un po' misera nelle quantità e qualità mediocre.|F&B|neg|colazione un po misera nelle quantità e qualità mediocre
+1086|Percezione di scarsa...|Percezione di scarsa sicurezza all'interno dell'albergo. Presenza di persone poco raccomandabili.|Reception|neg|percezione di scarsa sicurezza all interno dell albergo presenza di persone poco raccomandabili
+109|Camera meravigliosa arredata...|Camera meravigliosa arredata con cura e attenzione e con tutto il necessario al suo interno.|Housekeeping|pos|camera meravigliosa arredata con cura e attenzione e con tutto il necessario al suo interno
+1350|Colazione a buffet...|Colazione a buffet in stile americano davvero spettacolare con molte opzioni|F&B|pos|colazione a buffet in stile americano davvero spettacolare con molte opzioni
+1319|Un punto di...|Un punto di riferimento per chi ama la cucina vegana e per chi desidera scoprire quanto possa essere deliziosa.|F&B|pos|un punto di riferimento per chi ama la cucina vegana e per chi desidera scoprire quanto possa essere deliziosa
+849|Ho dovuto chiamare...|Ho dovuto chiamare più volte per poter avere una coperta in più e per sapere come attivare il wifi.|Reception|neg|ho dovuto chiamare più volte per poter avere una coperta in più e per sapere come attivare il wifi
+420|Piumone e lenzuola...|Piumone e lenzuola con delle macchie. Peli di altri clienti nel letto. Crepe sui muri.|Housekeeping|neg|piumone e lenzuola con delle macchie peli di altri clienti nel letto crepe sui muri
+591|Check-in rapido ed...|Check-in rapido ed efficiente. Dopo 2 minuti dall'arrivo eravamo già in camera.|Reception|pos|check in rapido ed efficiente dopo 2 minuti dall arrivo eravamo già in camera
+497|È un posto...|È un posto che sconsiglio vivamente! Ai limiti della decenza per camere, bagno, pulizie... Non andateci!|Housekeeping|neg|é un posto che sconsiglio vivamente ai limiti della decenza per camere bagno pulizie non andateci
+1591|Ogni volta che...|Ogni volta che cucinano nell'abergo, un tanfo di cipolla fritta si estende per tutte le camere.|F&B|neg|ogni volta che cucinano nell abergo un tanfo di cipolla fritta si estende per tutte le camere
+223|Letto comodissimo, confort...|Letto comodissimo, confort e pulizia. Ospitalità perfetta.|Housekeeping|pos|letto comodissimo confort e pulizia ospitalità perfetta
+53|Hotel dotato di...|Hotel dotato di ogni comfort, pulizia estrema, camere ampie, nuove e ben arredate.|Housekeeping|pos|hotel dotato di ogni comfort pulizia estrema camere ampie nuove e ben arredate
+516|Se volete alloggiare...|Se volete alloggiare in questo hotel, scordate la pulizia e la comodità.|Housekeeping|neg|se volete alloggiare in questo hotel scordate la pulizia e la comodità
+1066|Il personale non...|Il personale non rispetta le minime norme d'igiene.|Reception|neg|il personale non rispetta le minime norme d igiene
+373|Albergo fatiscente al...|Albergo fatiscente al limite dell' agibile! Stanze vecchie mai restautare, pulizia discutibile.|Housekeeping|neg|albergo fatiscente al limite dell agibile stanze vecchie mai restautare pulizia discutibile
+690|La struttura ha...|La struttura ha fornito molte informazioni utili per il nostro soggiorno e ha risposto a tutte le nostre domande.|Reception|pos|la struttura ha fornito molte informazioni utili per il nostro soggiorno e ha risposto a tutte le nostre domande
+321|Condizioni igieniche del...|Condizioni igieniche del bagno penose Mai visto nulla di simile.|Housekeeping|neg|condizioni igieniche del bagno penose mai visto nulla di simile
+145|Personale di pulizia...|Personale di pulizia sempre disponibile per ogni esigenza|Housekeeping|pos|personale di pulizia sempre disponibile per ogni esigenza
+838|Non hanno nemmeno...|Non hanno nemmeno la dignità di trattare bene i pochi clienti che hanno sono senza parole.|Reception|neg|non hanno nemmeno la dignità di trattare bene i pochi clienti che hanno sono senza parole
+1570|Fritti unti e...|Fritti unti e cotti male. Se potete evitate di mangiare qui.|F&B|neg|fritti unti e cotti male se potete evitate di mangiare qui
+1426|Per colazione uno...|Per colazione uno ZERO assoluto|F&B|neg|per colazione uno zero assoluto
+457|Pulizia zero nel...|Pulizia zero nel bagno.|Housekeeping|neg|pulizia zero nel bagno
+1296|Un punto di...|Un punto di forza è la carta dei vini, attentamente selezionata con etichette biologiche.|F&B|pos|un punto di forza é la carta dei vini attentamente selezionata con etichette biologiche
+525|Arredi vecchi e...|Arredi vecchi e usurati, mancanza di pulizie extra e cambi di biancheria|Housekeeping|neg|arredi vecchi e usurati mancanza di pulizie extra e cambi di biancheria
+828|A causa di...|A causa di un guasto è mancata l'acqua calda in camera per tutto il periodo.|Reception|neg|a causa di un guasto é mancata l acqua calda in camera per tutto il periodo
+1160|gradisco molto l’uso...|gradisco molto l’uso di ingredienti biologici e a km zero, si sente la differenza nel gusto.|F&B|pos|gradisco molto l uso di ingredienti biologici e a km zero si sente la differenza nel gusto
+559|Grande simpatia e...|Grande simpatia e gentilezza del titolare e di tutti gli addetti.|Reception|pos|grande simpatia e gentilezza del titolare e di tutti gli addetti
+1308|Prezzi adeguati e...|Prezzi adeguati e qualità del cibo elevata|F&B|pos|prezzi adeguati e qualità del cibo elevata
+436|TV e wifi...|TV e wifi fuori uso. Arredi vecchi, aria condizionata non funzionante.|Housekeeping|neg|tv e wifi fuori uso arredi vecchi aria condizionata non funzionante
+977|Nonostante le nostre...|Nonostante le nostre proteste non è stato possibile aver alcun aiuto dal personale.|Reception|neg|nonostante le nostre proteste non é stato possibile aver alcun aiuto dal personale
+1297|Il servizio F&B...|Il servizio F&B interno è impeccabile: attento ma mai invadente; staff preparato e appassionato|F&B|pos|il servizio f&b interno é impeccabile attento ma mai invadente staff preparato e appassionato
+52|Siamo stati sistemati...|Siamo stati sistemati in due comodissime camere comunicanti ideali per una famiglia.|Housekeeping|pos|siamo stati sistemati in due comodissime camere comunicanti ideali per una famiglia
+275|stanza sporca e...|stanza sporca e disordinata|Housekeeping|neg|stanza sporca e disordinata
+1128|prestazione eccellente, cibo...|prestazione eccellente, cibo incredibile. La zona ristorante è molto bella.|F&B|pos|prestazione eccellente cibo incredibile la zona ristorante é molto bella
+797|Staff efficientissimo, molto...|Staff efficientissimo, molto presente e preparato anche sui consigli per i posti da visitare|Reception|pos|staff efficientissimo molto presente e preparato anche sui consigli per i posti da visitare
+1081|Promesse non mantenute,...|Promesse non mantenute, risposte evasive o superficiali, mancanza di follow-up. Hotel da chiudere.|Reception|neg|promesse non mantenute risposte evasive o superficiali mancanza di follow up hotel da chiudere
+196|Camere colorate ed...|Camere colorate ed eleganti, bagni nuovi, confort e disponibilità assolute|Housekeeping|pos|camere colorate ed eleganti bagni nuovi confort e disponibilità assolute
+1228|Menù con ottima...|Menù con ottima scelta sia di cibo che di bevande.|F&B|pos|menù con ottima scelta sia di cibo che di bevande
+715|Grazie ai ragazzi...|Grazie ai ragazzi della reception e del servizio ai piani per l'ottima accoglienza|Reception|pos|grazie ai ragazzi della reception e del servizio ai piani per l ottima accoglienza
+1607|Abbiamo provato a...|Abbiamo provato a chiedere la colazione in camera e ci hanno riso in faccia.|F&B|neg|abbiamo provato a chiedere la colazione in camera e ci hanno riso in faccia
+1298|Il servizio F&B...|Il servizio F&B interno è impeccabile: attento ma mai invadente; staff preparato e entusiasta.|F&B|pos|il servizio f&b interno é impeccabile attento ma mai invadente staff preparato e entusiasta
+469|Il letto puzzava...|Il letto puzzava di stantio, la tv non trasmetteva nessun canale|Housekeeping|neg|il letto puzzava di stantio la tv non trasmetteva nessun canale
+1416|Colazione praticamente inesistente...|Colazione praticamente inesistente e quel poco che c'era, di bassissima qualità.|F&B|neg|colazione praticamente inesistente e quel poco che c era di bassissima qualità
+70|Stanze con tutti...|Stanze con tutti i requisiti confortevoli e ben tenute. Bella esperienza.|Housekeeping|pos|stanze con tutti i requisiti confortevoli e ben tenute bella esperienza
+1420|Per colazione non...|Per colazione non c'è molta scelta, oltre un cappuccino o caffè, nient'altro.|F&B|neg|per colazione non c é molta scelta oltre un cappuccino o caffé nient altro
+1108|breakfast abbondante e...|breakfast abbondante e di buona qualità.|F&B|pos|breakfast abbondante e di buona qualità
+146|Personale di pulizia...|Personale di pulizia sempre disponibile per ogni necessità.|Housekeeping|pos|personale di pulizia sempre disponibile per ogni necessità
+1187|Cenone di capodanno...|Cenone di capodanno ottimo, gentilezza e professionalità dello chef e del personale di sala impareggiabile|F&B|pos|cenone di capodanno ottimo gentilezza e professionalità dello chef e del personale di sala impareggiabile
+1053|Il tizio che...|Il tizio che accoglie gli ospiti non mette certamente le persone a proprio agio, sommario e poco professionale.|Reception|neg|il tizio che accoglie gli ospiti non mette certamente le persone a proprio agio sommario e poco professionale
+1321|Dehor interno all'albergo...|Dehor interno all'albergo molto carino e ben strutturato. Buon servizio e buon cibo.|F&B|pos|dehor interno all albergo molto carino e ben strutturato buon servizio e buon cibo
+914|Il portiere di...|Il portiere di notte ci ha rivelato che il riscaldamento è guasto da 8 anni.|Reception|neg|il portiere di notte ci ha rivelato che il riscaldamento é guasto da 8 anni
+1537|Non ci sono...|Non ci sono state date indicazioni chiare sul cibo e questo ha penalizzato l'esperienza.|F&B|neg|non ci sono state date indicazioni chiare sul cibo e questo ha penalizzato l esperienza
+1624|I pasti in...|I pasti in quest'albergo sono all'insegna del risparmio.|F&B|neg|i pasti in quest albergo sono all insegna del risparmio
+1598|La colazione compresa...|La colazione compresa nel prezzo prevede 2 fette biscottate e una vaschetta di marmellata|F&B|neg|la colazione compresa nel prezzo prevede 2 fette biscottate e una vaschetta di marmellata
+688|L'albergo offre tutto...|L'albergo offre tutto ciò di cui potresti avere bisogno. Gestore molto cordiale e simpatico.|Reception|pos|l albergo offre tutto ciò di cui potresti avere bisogno gestore molto cordiale e simpatico
+935|Ho chiesto se...|Ho chiesto se potevano chiamarmi un taxi e mi è stato risposto che potevo chiamarmelo da solo.|Reception|neg|ho chiesto se potevano chiamarmi un taxi e mi é stato risposto che potevo chiamarmelo da solo
+825|Attesa snervante alla...|Attesa snervante alla registrazione e poca chiarezza nelle informazioni.|Reception|neg|attesa snervante alla registrazione e poca chiarezza nelle informazioni
+963|Reception praticamente inesistente...|Reception praticamente inesistente 0 personale, 0 servizi, 0 professionalità.|Reception|neg|reception praticamente inesistente 0 personale 0 servizi 0 professionalità
+132|Soggiorno fantastico in...|Soggiorno fantastico in questo B&B. La camera era molto pulita, nulla da ridire|Housekeeping|pos|soggiorno fantastico in questo b&b la camera era molto pulita nulla da ridire
+376|Il telaio della...|Il telaio della finestra è ammuffito e rovinato I letti non sono confortevoli|Housekeeping|neg|il telaio della finestra é ammuffito e rovinato i letti non sono confortevoli
+394|Definirla camera è...|Definirla camera è un complimento: sporca, letto sfondato, cuscini inesistenti, finestra che non si chiude.|Housekeeping|neg|definirla camera é un complimento sporca letto sfondato cuscini inesistenti finestra che non si chiude
+960|Il personale non...|Il personale non comprende l'italiano e quando lo capivano erano TOTALMENTE DSINTERESSATI a qualsiasi richiesta.|Reception|neg|il personale non comprende l italiano e quando lo capivano erano totalmente dsinteressati a qualsiasi richiesta
+1370|In albergo è...|In albergo è presente uno chef molto creativo che prepara ottimi piatti.|F&B|pos|in albergo é presente uno chef molto creativo che prepara ottimi piatti
+442|Finestre che non...|Finestre che non servono a niente, ci sono spifferi e si sente ogni suono esterno.|Housekeeping|neg|finestre che non servono a niente ci sono spifferi e si sente ogni suono esterno
+519|Il rubinetto che...|Il rubinetto che perde e il condizionatore rumoroso non ci hanno fatto chiudere occhio.|Housekeeping|neg|il rubinetto che perde e il condizionatore rumoroso non ci hanno fatto chiudere occhio
+984|La risposta alle...|La risposta alle nostre lamentele è stata se non vi va bene andate in un altro albergo.|Reception|neg|la risposta alle nostre lamentele é stata se non vi va bene andate in un altro albergo
+1150|Qualità delle materie...|Qualità delle materie prime eccellente, portate ottime e servizio cordiale e impeccabile|F&B|pos|qualità delle materie prime eccellente portate ottime e servizio cordiale e impeccabile
+677|Massima sicurezza all'interno...|Massima sicurezza all'interno della struttura e controllo accessi efficiente|Reception|pos|massima sicurezza all interno della struttura e controllo accessi efficiente
+74|Stanze pulite e...|Stanze pulite e accoglienti, arredate in legno stile classico, danno una bella sensazione di calore.|Housekeeping|pos|stanze pulite e accoglienti arredate in legno stile classico danno una bella sensazione di calore
+1610|Tutta la struttura...|Tutta la struttura è fatiscente in particolare la zona della colazione, pranzo e cena. Cibo così così.|F&B|neg|tutta la struttura é fatiscente in particolare la zona della colazione pranzo e cena cibo così così
+1157|Apprezzo molto l’uso...|Apprezzo molto l’uso di ingredienti biologici e a km zero, si sente la differenza nel sapore|F&B|pos|apprezzo molto l uso di ingredienti biologici e a km zero si sente la differenza nel sapore
+100|Nessuna traccia di...|Nessuna traccia di polvere o sporcizia in nessun angolo della camera. Controllato personalmente.|Housekeeping|pos|nessuna traccia di polvere o sporcizia in nessun angolo della camera controllato personalmente
+5|Albergo confortevole e...|Albergo confortevole e accogliente. Pulizia impeccabile e attenzione ai dettagli.|Housekeeping|pos|albergo confortevole e accogliente pulizia impeccabile e attenzione ai dettagli
+845|Non particolarmente accogliente...|Non particolarmente accogliente Personale svogliato se non addirittura sgarbato.|Reception|neg|non particolarmente accogliente personale svogliato se non addirittura sgarbato
+1323|Al bar dell'albergo...|Al bar dell'albergo è possibile bere ottimi drink preparati da un barman molto preparato.|F&B|pos|al bar dell albergo é possibile bere ottimi drink preparati da un barman molto preparato
+499|Albergo molto vecchio...|Albergo molto vecchio e malconcio. Camere cupe e asfissianti senza nessun comfort.|Housekeeping|neg|albergo molto vecchio e malconcio camere cupe e asfissianti senza nessun comfort
+331|L'albergo ha bisogno...|L'albergo ha bisogno di aggiornamenti e riparazioni. Hall vecchia e camere molto datate.|Housekeeping|neg|l albergo ha bisogno di aggiornamenti e riparazioni hall vecchia e camere molto datate
+37|Servizio di manutenzione...|Servizio di manutenzione impeccabile. Camera sempre in ordine e tutto funzionante alla perfezione.|Housekeeping|pos|servizio di manutenzione impeccabile camera sempre in ordine e tutto funzionante alla perfezione
+1159|gradisco molto l’uso...|gradisco molto l’uso di ingredienti biologici e a km zero, si sente la differenza nel sapore|F&B|pos|gradisco molto l uso di ingredienti biologici e a km zero si sente la differenza nel sapore
+790|Ho trascorso tre...|Ho trascorso tre giorni di relax, servita da personale davvero professionale e sempre disponibile.|Reception|pos|ho trascorso tre giorni di relax servita da personale davvero professionale e sempre disponibile
+732|Soggiorno piacevolissimo in...|Soggiorno piacevolissimo in questa struttura grazie alle mille e una attenzione che hanno avuto per noi.|Reception|pos|soggiorno piacevolissimo in questa struttura grazie alle mille e una attenzione che hanno avuto per noi
+1470|L'agnello è stato...|L'agnello è stato cotto sulla stessa griglia del pesce.|F&B|neg|l agnello é stato cotto sulla stessa griglia del pesce
+832|Personale scortese che...|Personale scortese che mette ansia. Qualsiasi richiesta extra viene respinta a priori.|Reception|neg|personale scortese che mette ansia qualsiasi richiesta extra viene respinta a priori
+75|Camera confortevole e...|Camera confortevole e silenziosa albergo in ottima posizione. Promosso in pieno.|Housekeeping|pos|camera confortevole e silenziosa albergo in ottima posizione promosso in pieno
+882|Il personale delle...|Il personale delle pulizie inizia a infastidire già alle 7:30 bussando per essere aperti.|Reception|neg|il personale delle pulizie inizia a infastidire già alle 7 30 bussando per essere aperti
+833|Personale scortese che...|Personale scortese che mette ansia. ogni richiesta extra viene respinta a priori.|Reception|neg|personale scortese che mette ansia ogni richiesta extra viene respinta a priori
+230|Letto incredibilmente comodo,...|Letto incredibilmente comodo, garantisce un sonno riposante dopo lunghe giornate di esplorazione.|Housekeeping|pos|letto incredibilmente comodo garantisce un sonno riposante dopo lunghe giornate di esplorazione
+1209|Al ristorante interno...|Al ristorante interno vasta scelta soprattutto sui vini locali|F&B|pos|al ristorante interno vasta scelta soprattutto sui vini locali
+998|Ho avuto bisogno...|Ho avuto bisogno di effettuare check-in notturno ma mi è stato risposto che dovevo attendere la mattinna.|Reception|neg|ho avuto bisogno di effettuare check in notturno ma mi é stato risposto che dovevo attendere la mattinna
+221|Mi sono sentito...|Mi sono sentito come a casa. Appartamento pulito e ben arredato.|Housekeeping|pos|mi sono sentito come a casa appartamento pulito e ben arredato
+144|Albergo stupendo, pulizia...|Albergo stupendo, pulizia eccellente. Promosso in toto!|Housekeeping|pos|albergo stupendo pulizia eccellente promosso in toto
+669|La risposta della...|La risposta della reception a tutte le mie richieste è sempre arrivata entro poco tempo, chiara e professionale.|Reception|pos|la risposta della reception a tutte le mie richieste é sempre arrivata entro poco tempo chiara e professionale
+1582|Tutte le portate...|Tutte le portate avevano qualche errore. In generale poco gusto e niente raffinatezza|F&B|neg|tutte le portate avevano qualche errore in generale poco gusto e niente raffinatezza
+1561|Abbiamo trovato poca...|Abbiamo trovato poca elaborazione e ricerca, sopratutto nei secondi piatti.|F&B|neg|abbiamo trovato poca elaborazione e ricerca sopratutto nei secondi piatti
+1526|Personale ma soprattutto...|Personale ma soprattutto titolari molto sgarbati e classisti.|F&B|neg|personale ma soprattutto titolari molto sgarbati e classisti
+384|I servizi sono...|I servizi sono un po carenti Camera spartana e poco accogliente.|Housekeeping|neg|i servizi sono un po carenti camera spartana e poco accogliente
+57|Una perla rara...|Una perla rara in fatto di attenzione al cliente, confort e pulizia delle camere.|Housekeeping|pos|una perla rara in fatto di attenzione al cliente confort e pulizia delle camere
+396|Hotel pessimo stanze...|Hotel pessimo stanze orribili ogni cosa lì dentro sembra sporca.|Housekeeping|neg|hotel pessimo stanze orribili ogni cosa lì dentro sembra sporca
+1013|Servizi pari a...|Servizi pari a zero. Se pensate di andare in vacanza per riposarvi questo non è per niente il posto adatto…|Reception|neg|servizi pari a zero se pensate di andare in vacanza per riposarvi questo non é per niente il posto adatto
+993|Prima mi hanno...|Prima mi hanno registrato e poi mi hanno comunicato che la mia camera non aveva il bagno.|Reception|neg|prima mi hanno registrato e poi mi hanno comunicato che la mia camera non aveva il bagno
+398|Hotel penoso, stanze...|Hotel penoso, stanze orribili ogni cosa lì dentro sembra sporca.|Housekeeping|neg|hotel penoso stanze orribili ogni cosa lì dentro sembra sporca
+642|Ci hanno prenotato...|Ci hanno prenotato i biglietti per il teatro e dato ottimi consigli sui tour dei locali della zona|Reception|pos|ci hanno prenotato i biglietti per il teatro e dato ottimi consigli sui tour dei locali della zona
+932|La cameriera si...|La cameriera si è messa a urlare perché mia moglie ha chiesto se poteva avere un té.|Reception|neg|la cameriera si é messa a urlare perché mia moglie ha chiesto se poteva avere un té
+283|Personale poco attento...|Personale poco attento alla pulizia delle camere e dei bagni.|Housekeeping|neg|personale poco attento alla pulizia delle camere e dei bagni
+664|La disponibilità del...|La disponibilità del personale a venire incontro alle nostre necessità è stata molto apprezzata.|Reception|pos|la disponibilità del personale a venire incontro alle nostre necessità é stata molto apprezzata
+716|Grazie ai ragazzi...|Grazie ai ragazzi della reception e del servizio ai piani per l'ottima ospitalità.|Reception|pos|grazie ai ragazzi della reception e del servizio ai piani per l ottima ospitalità
+493|Stanza logora, moquette...|Stanza logora, moquette bisunta, bagno troppo piccolo con odore orrendo.|Housekeeping|neg|stanza logora moquette bisunta bagno troppo piccolo con odore orrendo
+413|Tappeto con enormi...|Tappeto con enormi macchie, parete rotta e un bagno inquetante... Hotel da incubo.|Housekeeping|neg|tappeto con enormi macchie parete rotta e un bagno inquetante hotel da incubo
+170|Molto pulito, silenzioso,...|Molto pulito, silenzioso, ottimo wifi e un letto comodo. Bagno un po' piccolo ma funzionale.|Housekeeping|pos|molto pulito silenzioso ottimo wifi e un letto comodo bagno un po piccolo ma funzionale
+637|Un'esperienza senza stress....|Un'esperienza senza stress. Il personale dell'hotel fornisce aiuto e assistenza per qualsiasi richiesta.|Reception|pos|un esperienza senza stress il personale dell hotel fornisce aiuto e assistenza per qualsiasi richiesta
+445|Stanza freddissima! Termosifoni...|Stanza freddissima! Termosifoni spenti il 31 dicembre.|Housekeeping|neg|stanza freddissima termosifoni spenti il 31 dicembre
+553|Servizi e personale...|Servizi e personale TOP. Consigliatissimo.|Reception|pos|servizi e personale top consigliatissimo
+393|Struttura fatiscente, moquette...|Struttura fatiscente, moquette ovunque che non dà il benché minimo senso di igiene.|Housekeeping|neg|struttura fatiscente moquette ovunque che non dà il benché minimo senso di igiene
+122|Struttura stupenda che...|Struttura stupenda che ti fa sentire come a casa. Ambiente familiare pulito e tranquillo.|Housekeeping|pos|struttura stupenda che ti fa sentire come a casa ambiente familiare pulito e tranquillo
+892|Carenza cronica di...|Carenza cronica di personale. Non c'è mai qualcuno a cui chiedere informazioni.|Reception|neg|carenza cronica di personale non c é mai qualcuno a cui chiedere informazioni
+1413|niente colazione in...|niente colazione in questo hotel; abbiamo dovuto cercare il bar più vicino!|F&B|neg|niente colazione in questo hotel abbiamo dovuto cercare il bar più vicino
+1276|Cibo di alta...|Cibo di alta qualità, molto curata anche la presentazione. Prezzi sotto la media.|F&B|pos|cibo di alta qualità molto curata anche la presentazione prezzi sotto la media

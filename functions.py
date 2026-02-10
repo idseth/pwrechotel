@@ -73,7 +73,7 @@ def carica_modelli_batch():                               # Modello per analisi 
 
 @st.cache_data
 def carica_dataset_test():
-    return pd.read_csv("C:/Users/idset/Desktop/UniPegaso/Project work/dataset_test20_42.csv", sep='|')
+    return pd.read_csv("dataset_test20_42.csv", sep='|')
 
 
 def predict_batch(text):
