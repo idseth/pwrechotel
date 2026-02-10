@@ -213,7 +213,8 @@ if uploaded_file is not None:
 with st.expander("Info / Readme: Caricamento e analisi dataset personalizzato"):
     st.write("""
     Infine, è possibile caricare un proprio dataset per sottoporlo ad analisi e visualizzare/scaricare i risultati.
-    Il file da processare deve essere un file CSV con separatore | (pipe) e contenere almeno le colonne body, department e sentiment
+    Il file da processare deve essere in formato CSV con separatore | (pipe) e contenere almeno le colonne body, 
+    department e sentiment ( body|department|sentiment )
     """)
 
 
