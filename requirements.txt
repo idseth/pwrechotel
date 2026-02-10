@@ -4,3 +4,4 @@ scikit-learn
 spacy
 joblib
 plotly
+it_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/it_core_news_sm-3.5.0/it_core_news_sm-3.5.0.tar.gz
