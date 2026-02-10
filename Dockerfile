@@ -11,6 +11,7 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
+RUN python -m spacy download it_core_news_sm
 
 # Copia tutto il codice nel container
 COPY . .
