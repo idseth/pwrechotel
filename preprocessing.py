@@ -1,7 +1,12 @@
 import re  # Per le regular expressions
 import spacy  # Per il Natural Language Processing
+from spacy.cli import download
 
-nlp = spacy.load("it_core_news_sm")  # Carica il modello italiano di spaCy
+try:
+    nlp = spacy.load("it_core_news_sm")
+except OSError:
+    download("it_core_news_sm")
+    nlp = spacy.load("it_core_news_sm")
 
 
 def preprocessing_text(text):
