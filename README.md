@@ -14,7 +14,7 @@ Contenuti del repository:
 - datasetliv1_preprocessed_LSW.csv -> dataset completo preprocessato con lemmatizzazione e rimozione stopword, utilizzato per training 100% per analisi recensione singola;
 - clf_dept_LSW.pkl; clf_sent_LSW.pkl; tfidf_vectorizer_LSW.pkl -> file pkl ottenuti con training 100% su datasetliv1_preprocessed.csv;
 - datasetliv1_preprocessed.csv -> dataset con split 80/20 preprocessato senza lemmatizzazione e senza rimozione stopword, utilizzato per training per analisi batch;
-- dataset_test20_42.csv -> dataset composto dal 20% di datasetliv1.csv preprocessato senza lemmatizzazione, senza rimozione stopword e seme di plit = 42, per analisi batch;
+- dataset_test20_42.csv -> dataset composto dal 20% di datasetliv1.csv preprocessato senza lemmatizzazione, senza rimozione stopword e seme di split = 42, per analisi batch;
 - clf_dept_80.pkl; clf_sent_80.pkl; tfidf_vectorizer_80.pkl -> file pkl ottenuti con training su datasetliv1_preprocessed.csv per test su dataset_test20_42.csv
 
 
