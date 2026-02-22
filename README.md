@@ -9,8 +9,7 @@ Contenuti del repository:
 - app.py -> script principale;
 - functions.py -> contenitore di funzioni;
 - preprocessing.py -> funzione di preprocessing del testo;
-- preprocessing.ipynb -> funzione di preprocessing utilizzata offline per generare il dataset di addestramento preprocessato;
-- reglog.ipynb -> modello di regressione logica utilizzato offline per creare i file .pkl;
+- reglog.py -> modello di regressione logica utilizzato offline per creare i file .pkl;
 - datasetliv1.csv -> dataset completo con 1600 recensioni;
 - datasetliv1_preprocessed_LSW.csv -> dataset completo preprocessato con lemmatizzazione e rimozione stopword, utilizzato per training 100% per analisi recensione singola;
 - clf_dept_LSW.pkl; clf_sent_LSW.pkl; tfidf_vectorizer_LSW.pkl -> file pkl ottenuti con training 100% su datasetliv1_preprocessed.csv;
